@@ -10,16 +10,19 @@
 
 ---
 
+This addition provides a direct link to the official page for QuickBMS, allowing users to access the tool and find related resources.
+
+Let me know if you'd like to adjust it further or need any more additions!
 ## File Structure Overview
 
 ### 1. **Textures**
 - **Location**: Textures are stored in `.str` archive files, typically bundled and compressed together within the game’s archive system.
-- **Tool**: QuickBMS with the `simpsons game str` script extracts both textures and models from the `.str` archive files.
-- **Output Format**: Textures are extracted as `.txd` files. These can be converted to PNG format using **Noesis**.
+- **Tool**: [QuickBMS](https://aluigi.altervista.org/) with the `simpsons game str` script extracts both textures and models from the `.str` archive files.
+- **Output Format**: Textures are extracted as `.txd` files. These can be converted to PNG format using [**Noesis**](https://richwhitehouse.com/index.php?content=inc_projects.php&showproject=91).
 
 ### 2. **Models**
 - **Location**: Models are stored within `.str` archive files alongside textures.
-- **Extraction Tool**: The `simpsons game str` QuickBMS script extracts both models and textures from the `.str` files.
+- **Extraction Tool**: The `simpsons game str` [QuickBMS](https://aluigi.altervista.org/) script extracts both models and textures from the `.str` files.
 - **Output Format & Use**: The extracted models can be imported into **Blender** using the Python script designed to handle the .preinstanced model files found in this structure 'build_assets\environs\bargainbin\bargainbin\zone01\export\terrain\'.
 
 ### 3. **Audio Files**
