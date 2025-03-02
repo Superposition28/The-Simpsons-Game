@@ -35,8 +35,23 @@
 
 ---
 
-## License
-
-All assets extracted from *The Simpsons Game 2007* are the property of Electronic Arts and Disney and should be used in compliance with their terms of service and copyright regulations, consisting of do not and never.
+Here's an enhanced version of the legal disclaimer:
 
 ---
+
+## **License and Legal Notice**
+
+All assets, game files, and intellectual property contained within *The Simpsons Game* (2007), including but not limited to textures, models, audio, cutscenes, and any other media, are the exclusive proprietary property of Electronic Arts (EA) and are protected by applicable copyright laws. Any use, reproduction, distribution, or modification of these assets without explicit permission from Electronic Arts is strictly prohibited.
+
+The characters, storyline, and all trademarks associated with *The Simpsons*, including but not limited to the name, logos, designs, and likenesses, are the intellectual property of The Walt Disney Company, which holds all rights to *The Simpsons* franchise. All rights reserved.
+
+This material is provided solely for the purpose of personal research, academic use, and educational purposes. Unauthorized use, including any commercial exploitation or redistribution of these assets, is a violation of copyright law and may result in legal action.
+
+By accessing or utilizing any part of this content, you agree to comply with these terms and understand the restrictions set forth regarding the use of copyrighted material. The unauthorized use of copyrighted assets may lead to legal consequences.
+
+If you are the rightful owner of any material that you believe to be included in this repository or if you have concerns about this content, please contact us directly. We are committed to complying with all copyright laws and will take prompt action to remove or modify any content that violates intellectual property rights.
+
+Should any unintentional infringement have occurred, we are fully willing to cooperate with the owners of the intellectual property to resolve any issues in accordance with applicable laws and guidelines. We take copyright matters seriously and aim to respect the rights of content creators and owners.
+
+---
+
