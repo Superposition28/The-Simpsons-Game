@@ -35,10 +35,6 @@
 
 ---
 
-Here's an enhanced version of the legal disclaimer:
-
----
-
 ## **License and Legal Notice**
 
 All assets, game files, and intellectual property contained within *The Simpsons Game* (2007), including but not limited to textures, models, audio, cutscenes, and any other media, are the exclusive proprietary property of Electronic Arts (EA) and are protected by applicable copyright laws. Any use, reproduction, distribution, or modification of these assets without explicit permission from Electronic Arts is strictly prohibited.
